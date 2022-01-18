@@ -11,8 +11,8 @@
   ],
   "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
   "protectedRoutes": [
-    "/private/",
-    "/private2/"
+    "/private",
+    "/private2"
   ],
   "email": "zyf@liaojiqing.onmicrosoft.com",
   "links": [
