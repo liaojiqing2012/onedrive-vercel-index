@@ -1,8 +1,8 @@
 {
-  "userPrincipalName": "zyf@liaojiqing.onmicrosoft.com",
+  "userPrincipalName": "liaojiqing2012@liaojiqing.onmicrosoft.com",
   "icon": "/icons/128.png",
   "title": "QQ's OneDrive",
-  "baseDirectory": "/Public",
+  "baseDirectory": "/uploads",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
@@ -11,10 +11,9 @@
   ],
   "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
   "protectedRoutes": [
-    "/private",
-    "/private2"
+    "/private"
   ],
-  "email": "zyf@liaojiqing.onmicrosoft.com",
+  "email": "liaojiqing2012@liaojiqing.onmicrosoft.com",
   "links": [
     {
       "name": "GitHub",
